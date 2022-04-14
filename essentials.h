@@ -1,0 +1,10 @@
+void red ();
+void yellow();
+void purple();
+void reset ();
+void printRedinside(char* s, char* till, int len);
+void printRedonly(char* s, char* till, int len);
+void printinRed(char* s, int l);
+void printinYellow(int n);
+void printinPurple(char* s);
+char* make_lower(char* s);
