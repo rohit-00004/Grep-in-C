@@ -11,12 +11,9 @@ move into the project directory
 Type these commands
 ```
 make final
-./grep [OPTION...] [FILE...]
-
+./grep [OPTION...] PATTERN [FILE...]
 ```
-
-
-
+Example: ./grep -c "this" sample.txt
 ## Options supported
 
 ```
